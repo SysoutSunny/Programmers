@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 아까 a + b와 b + a의 응용문제다 
+// 아까 a + b와 b + a의 응용문제다
 int solution(int a, int b)
 {
     int answer = 0;
